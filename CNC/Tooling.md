@@ -38,3 +38,10 @@ For the current AltMill 4×8 spoilboard setup:
 - T1: 1/4 in SpeTool SPE-X upcut
 - T2: 1/8 in SpeTool SPE-X O-flute
 - T3–T6: not yet permanently assigned
+
+## MDF surface-pocket trial — 2026-10-09
+
+- 12 × 12 in MDF inlay pockets, final depth 0.080 in; preserve a 0.4 in center strip. T5 Amana 46202-K 1/4 in downcut scores beside the strip to 1.5 mm; T1 SpeTool W04020 1/4 in 2-flute upcut clears both complete pocket floors.
+- Programmed: both 18,000 RPM; T5 215 IPM, T1 290 IPM; T1 stepover 40% (0.100 in). T1 feed came from a matching-geometry W04005 MDF preset, not independently verified W04020 manufacturer data.
+- User reports good finish at 200% work-feed override on the last surface job (nominal T1 feed 580 IPM if applied to the 290 IPM program; actual achieved feed not measured).
+- Future surface pockets: retain 1/4 in cutter, increase stepover above 50% to reduce passes (exact value pending), and consider higher feed based on this trial. Larger stepover has not yet been tested. Do not apply the surface-cut override result automatically to through cuts.
