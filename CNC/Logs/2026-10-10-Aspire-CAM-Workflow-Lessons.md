@@ -7,7 +7,7 @@ Notes from recent AltMill 4×8 / Aspire work. Treat the feeds below as a startin
 - Write down the stock size, measured thickness, units, and axes before drawing: X is width, Y is length, XY zero is the lower-left corner, and Z zero is the material surface.
 - Recheck the physical thickness for every new board. Do not reuse 0.50 in when the board measures 0.52 in, or reuse an old project thickness without confirming it.
 - For salvage work, identify the two good adjacent edges and keep them as the datum. Translate the requested finished size into exact remaining-edge cuts before opening Aspire. A “12 × 12” salvage panel needs 12 in on both axes; do not accidentally carry forward a 10 in X dimension from another layout.
-- Confirm the total geometry with arithmetic before export. Seven strips require six grooves. For the 14 in layout in this job, 7 × 1.80 + 6 × 0.15 + 2 × 0.25 = 14.00 in. That leaves seven 1.80 in lands, six 0.15 in grooves, and 0.25 in side margins.
+- Confirm the total geometry with arithmetic before export. Seven strips require six grooves. The corrected 14 in layout has no side margins: 7 × 1.88 + 6 × 0.14 = 14.00 in, leaving seven 1.88 in lands and six 0.14 in grooves.
 
 ## Keep geometry, toolpaths, and exports distinct
 
