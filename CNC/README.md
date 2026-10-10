@@ -1,6 +1,6 @@
 # CNC Knowledge Base
 
-_Last reviewed: 2026-10-01_
+_Last reviewed: 2026-10-10_
 
 This folder is the working reference for CNC machines, tooling, setup decisions, operating procedures, maintenance, troubleshooting, and dated shop logs.
 
@@ -36,6 +36,7 @@ Current stage: machine is assembled and being commissioned. The immediate work i
 
 ### Dated records
 - [2026-10-01 AltMill setup log](./Logs/2026-10-01-AltMill-Setup.md)
+- [2026-10-10 Aspire CAM workflow lessons](./Logs/2026-10-10-Aspire-CAM-Workflow-Lessons.md)
 
 ## How to use this knowledge base
 
