@@ -1,6 +1,6 @@
 # CNC Equipment Inventory
 
-_Last updated: 2026-10-01_
+_Last updated: 2026-10-24_
 
 This is the master inventory for the current CNC setup. It records the main machines, Sienci/AltMill accessories, rotary and probing equipment, pneumatic hardware, and cutters known to be on hand.
 
