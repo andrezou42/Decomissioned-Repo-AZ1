@@ -33,6 +33,7 @@ Current stage: machine is assembled and being commissioned. The immediate work i
 ### What we physically own
 - [Equipment inventory](./Equipment-Inventory.md)
 - [Tooling inventory](./Tooling.md)
+- [October 2026 Sienci cutters — dimensions and Vectric data gaps](./Sienci-2026-10-Tool-Reference.md)
 
 ### Dated records
 - [2026-10-01 AltMill setup log](./Logs/2026-10-01-AltMill-Setup.md)
