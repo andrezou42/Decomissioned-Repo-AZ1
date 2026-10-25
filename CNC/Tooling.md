@@ -2,7 +2,7 @@
 
 _Last updated: 2026-10-24_
 
-This file records CNC cutters currently on hand for future CAM, feeds/speeds, and toolpath planning.
+This file records CNC cutters on hand and ordered cutters awaiting receipt verification for future CAM, feeds/speeds, and toolpath planning.
 
 ## Current end mills / router bits
 
@@ -30,7 +30,7 @@ Sienci Labs' October 13 order confirmation and October 14 completion email list 
 | AltMill Starter Set | [1/4 × 1-3/4 in downcut ball nose](https://sienci.com/product/1-4_1-3-4_downcut_ballnose/) | 1/4 in | 1/4 in | 1-3/4 in | 2 | DLC | Curved 3D surfaces; vendor title and measurements say 2 flutes, although one page summary says 1 |
 | AltMill Starter Set | [1-1/2 in surfacing bit](https://sienci.com/product/1-1-2_surfacing_bit/) | 1-1/2 in | 1/4 in | N/A | 4 | Brazed carbide, not DLC | Flattening spoilboards and slabs |
 
-The starter set's 1/8 in bit is a **downcut end mill with a 1/4 in shank**, not a 1/8 in drill or upcut bit. Do not assume it is suitable for a straight plunge without checking its center-cutting geometry. Confirm every cutter's actual package and dimensions before adding permanent Aspire or ATC tool entries.
+The starter set's 1/8 in bit is a **downcut end mill with a 1/4 in shank**, not a 1/8 in drill or upcut bit. Do not assume it is suitable for a straight plunge without checking its center-cutting geometry. See the [detailed Sienci cutter and Vectric reference](./Sienci-2026-10-Tool-Reference.md) for manufacturer dimensions, applications, and unresolved tool-entry fields. Confirm every cutter's actual package and dimensions before adding permanent Vectric or ATC tool entries.
 
 ## Current AltMill spoilboard fastener decision
 
