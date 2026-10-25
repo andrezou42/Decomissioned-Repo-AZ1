@@ -44,6 +44,22 @@ Replacement/final machine order:
 
 The final completed order therefore confirms the current 4×8 machine together with the ATC package, regulator kit, and Vortex rotary system.
 
+#### Order #94613 — 2026-10-13 (completion email 2026-10-14)
+
+New Sienci tooling purchase; quantities are one each unless otherwise noted:
+- 1/4 × 2 × R1/32 in tapered ball nose, 2-flute DLC
+- 1/4 × 1 in extra-hard compression upcut with chip breaker, 3-flute DLC
+- 1/4 × 2 in high-helix upcut, 2-flute DLC
+- **AltMill Starter Set**, containing five cutters according to [Sienci's set listing](https://sienci.com/product/altmill_starter_set/):
+  - 3/8 × 1-1/4 in roughing upcut, 3-flute DLC, 3/8 in shank
+  - 1/8 × 3/4 in downcut, 1-flute DLC, 1/4 in shank
+  - 1/4 in 90° downcut V-bit, 3-flute DLC
+  - 1/4 × 1-3/4 in downcut ball nose, 2-flute DLC
+  - 1-1/2 in surfacing bit, 4-flute brazed carbide (not DLC)
+- ER20 Precision Collets, single 1/4 in size — **quantity 2**
+
+The emails confirm purchase and order completion, but physical receipt and rack assignment have not been checked. See [Tooling.md](./Tooling.md) for individual cutter specifications and vendor links.
+
 ## ATC / spindle hardware
 
 Known hardware currently associated with the AltMill:
@@ -134,4 +150,5 @@ This is separate from the AltMill 4×8 system but remains part of the CNC equipm
 - exact SKU for the 1/8 in SpeTool O-flute
 - final permanent T3–T6 rack assignments
 - exact count of spare ISO20 holders / ER20 collets on hand
+- physical receipt, package labels, and condition of the eight Sienci cutters and two 1/4 in ER20 collets from order #94613
 - any dust shoe, vacuum, mist/coolant, or dedicated workholding accessories added later
