@@ -12,7 +12,25 @@ This file records CNC cutters currently on hand for future CAM, feeds/speeds, an
 | 2 | SpeTool | Spiral upcut end mill, SPE-X | 1/4 in | 1/4 in | 1 in | 2 | SPE-X / TAC | W04020 | User has this bit on hand. SpeTool catalog data identifies W04020 as a 1/4 in cutting diameter, 1/4 in shank, 1 in cutting length, 2-1/2 in overall length upcut. |
 | 3 | Amana Tool | Solid-carbide Spektra spiral plunge down-cut | 1/4 in | 1/4 in | 3/4 in | — | Spektra | 46202-K | User-described as “Manna Tools quarter inch spiral downcut, 46202-K.” Manufacturer identifies it as Amana Tool 46202-K. |
 | 4 | SpeTool | Spiral O-flute upcut end mill, SPE-X | 1/4 in | 1/4 in | 1 in | 1 | SPE-X | Likely W03001 SPE-X | Exact part number was not supplied by user; manufacturer match based on stated 1/4 in O-flute SPE-X configuration. |
-| 5 | SpeTool | Spiral O-flute upcut end mill, SPE-X | 1/8 in | 1/4 in | 3/4 in | 1 | SPE-X | Likely W03002 SPE-X | User described “SP 1/8 inch, diameter 1 quarter inch”; interpreted as 1/8 in cutting diameter with 1/4 in shank. Exact part number was not supplied by user. |\n| 6 | BINSTAK | Spoilboard surfacing / slab-flattening router bit | 1 in | 1/4 in | — | 3-wing carbide-tipped | — | Amazon order shipped Feb. 2025 | Suitable for AltMill spoilboard surfacing; exact manufacturer SKU not recorded. |
+| 5 | SpeTool | Spiral O-flute upcut end mill, SPE-X | 1/8 in | 1/4 in | 3/4 in | 1 | SPE-X | Likely W03002 SPE-X | User described “SP 1/8 inch, diameter 1 quarter inch”; interpreted as 1/8 in cutting diameter with 1/4 in shank. Exact part number was not supplied by user. |
+| 6 | BINSTAK | Spoilboard surfacing / slab-flattening router bit | 1 in | 1/4 in | — | 3-wing carbide-tipped | — | Amazon order shipped Feb. 2025 | Suitable for AltMill spoilboard surfacing; exact manufacturer SKU not recorded. |
+
+## Sienci bits purchased in October 2026 — receipt unverified
+
+Sienci Labs' October 13 order confirmation and October 14 completion email list three individual cutters and one AltMill Starter Set. The [vendor's set listing](https://sienci.com/product/altmill_starter_set/) identifies five cutters in that set. There is one of each cutter below. Purchase and order completion are confirmed; physical receipt, condition, exact package labels, and ATC rack assignments have not been checked.
+
+| Purchase line | Sienci cutter | Cutting diameter / tip | Shank | Cutting length | Flutes | Coating | Intended use / note |
+|---|---|---|---|---|---:|---|---|
+| Individual | [1/4 × 2 × R1/32 in tapered ball nose](https://sienci.com/product/1-4_2_r1-32_tapered_ballnose/) | 1/4 in nominal; R1/32 in tip | 1/4 in | 2 in | 2 | DLC | 3D contours and reliefs |
+| Individual | [1/4 × 1 in extra-hard compression upcut with chip breaker](https://sienci.com/product/1-4_extra-hard-compression-upcut-with-chip-breaker/) | 1/4 in | 1/4 in | 1 in | 3 | DLC | Clean profile edges in wood, plywood, and MDF; exact upcut-tip length not published |
+| Individual | [1/4 × 2 in high-helix upcut](https://sienci.com/product/1-4_2_high_helix_upcut_end_mill/) | 1/4 in | 1/4 in | 2 in | 2 | DLC | 45° helix; profiling/finishing |
+| AltMill Starter Set | [3/8 × 1-1/4 in roughing upcut](https://sienci.com/product/3-8_1-1-4_roughing-upcut-endmill/) | 3/8 in | 3/8 in | 1-1/4 in | 3 | DLC | Serrated rougher; follow with finishing if a smooth edge is needed |
+| AltMill Starter Set | [1/8 × 3/4 in downcut](https://sienci.com/product/1-8_3-3_downcut_end_mill/) | 1/8 in | 1/4 in | 3/4 in | 1 | DLC | Top-edge finish, pockets, and inlays |
+| AltMill Starter Set | [1/4 in 90° downcut V-bit](https://sienci.com/product/1-4_90_degree_vbit/) | 1/4 in maximum | 1/4 in | N/A | 3 | DLC | V-grooves, chamfers, lettering |
+| AltMill Starter Set | [1/4 × 1-3/4 in downcut ball nose](https://sienci.com/product/1-4_1-3-4_downcut_ballnose/) | 1/4 in | 1/4 in | 1-3/4 in | 2 | DLC | Curved 3D surfaces; vendor title and measurements say 2 flutes, although one page summary says 1 |
+| AltMill Starter Set | [1-1/2 in surfacing bit](https://sienci.com/product/1-1-2_surfacing_bit/) | 1-1/2 in | 1/4 in | N/A | 4 | Brazed carbide, not DLC | Flattening spoilboards and slabs |
+
+The starter set's 1/8 in bit is a **downcut end mill with a 1/4 in shank**, not a 1/8 in drill or upcut bit. Do not assume it is suitable for a straight plunge without checking its center-cutting geometry. Confirm every cutter's actual package and dimensions before adding permanent Aspire or ATC tool entries.
 
 ## Current AltMill spoilboard fastener decision
 
