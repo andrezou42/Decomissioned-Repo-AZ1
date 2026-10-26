@@ -1,8 +1,5 @@
-# Knowledge-base
+# Former Public Knowledge Base
 
-## Topics
+This repository was the original public knowledge base. Its contents were consolidated into the private knowledge base in October 2026.
 
-- [股票投资](./股票投资/) — Andre 的股票投资理念、周期价值股、科技成长股、仓位与退出纪律、研究与 AI 工作流。
-- [Gweike M3 Ultra](./Gweike%20M3%20Ultra/)
-- [家庭养生活](./家庭养生活/) — 信仰、家庭、健康、生活秩序及事业/生意选择的长期原则。
-- [CNC](./CNC/) — CNC machines, tooling inventory, setup, workholding, CAM, and machining notes.
+This repository is decommissioned and no longer maintained. Previous versions remain accessible through Git history.
